@@ -1,0 +1,2 @@
+Esta librería debe de ser usada cuando el sensor de humedad para tierra está 
+invertido, de lo contrario usar las referencias ya existentes en Internet.
